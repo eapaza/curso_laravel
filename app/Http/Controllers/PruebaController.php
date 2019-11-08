@@ -13,4 +13,8 @@ class PruebaController extends Controller
     function tarea(){
         return view('prueba');
     }
+    
+    function tareaGus(){
+        return view('usuario');
+    }
 }

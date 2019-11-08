@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    PAGINA DE PRUEBA
+                    PAGINA DE PRUEBA hhhh
                 </div>
 
             </div>

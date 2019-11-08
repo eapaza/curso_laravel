@@ -16,3 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/prueba', 'PruebaController@tarea');
+
+Route::get('/tarea', 'PruebaController@tareaGus');
