@@ -18,3 +18,6 @@ Route::get('/', function () {
 Route::get('/prueba', 'PruebaController@tarea');
 
 Route::get('/tarea', 'PruebaController@tareaGus');
+
+Route::get('/docente', 'DocenteController@index');
+Route::get('/docente/{idDocente?}', 'DocenteController@show');
